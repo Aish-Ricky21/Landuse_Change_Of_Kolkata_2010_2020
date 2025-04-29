@@ -1,0 +1,51 @@
+[
+  {
+    "Class_Name": "Bare Land",
+    "Loss": 12.4596,
+    "Gain": 6.336,
+    "Unchanged": 2.9655,
+    "Changed": -2.064946889
+  },
+  {
+    "Class_Name": "Agriculture",
+    "Loss": 8.7723,
+    "Gain": 5.3136,
+    "Unchanged": 2.3211,
+    "Changed": -1.490112447
+  },
+  {
+    "Class_Name": "Vegetation",
+    "Loss": 6.2226,
+    "Gain": 17.5716,
+    "Unchanged": 3.9258,
+    "Changed": 2.890875745
+  },
+  {
+    "Class_Name": "Fellow Land",
+    "Loss": 2.7792,
+    "Gain": 1.6434,
+    "Unchanged": 0.7533,
+    "Changed": -1.50776583
+  },
+  {
+    "Class_Name": "HSP",
+    "Loss": 22.1067,
+    "Gain": 21.2184,
+    "Unchanged": 30.384,
+    "Changed": -0.029235782
+  },
+  {
+    "Class_Name": "Settlement",
+    "Loss": 16.1082,
+    "Gain": 19.1952,
+    "Unchanged": 70.479,
+    "Changed": 0.043800281
+  },
+  {
+    "Class_Name": "Water Body",
+    "Loss": 4.626,
+    "Gain": 1.7964,
+    "Unchanged": 7.0326,
+    "Changed": -0.402354748
+  }
+]
